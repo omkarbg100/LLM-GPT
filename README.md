@@ -352,6 +352,6 @@ Understanding these components deeply prepares you for:
 
 ---
 
-**Author:** Your Name  
+**Author:** Omkar Gaikwad 
 **Dataset:** Kaggle - OpenAI GPT-2 Weights  
 **Architecture:** Decoder-only Transformer  
