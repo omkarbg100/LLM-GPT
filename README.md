@@ -12,6 +12,10 @@ The goal of this project is to deeply understand how GPT-2 works internally — 
 - Feed Forward Networks
 - Weight Loading from pretrained GPT-2
 
+
+1. LLM-FULL-Detailed.ipynb helps you understand the Architecture and how to use the GPT-2 Weights inside your Model
+
+2. LLM-GPT-Chatbot.ipynb Here we Finetune Our Model to make it Work it Like a Chatbot
 ---
 
 # 📌 Project Overview
