@@ -1,5 +1,12 @@
 # GPT-2 From Scratch (Using Kaggle OpenAI GPT-2 Weights)
 
+This whole project is about implementing the GPT-2 architecture from scratch and loading the pretrained weights from the Kaggle dataset to validate our implementation.
+
+also we will be fine-tuning the model to make it work like a chatbot.
+
+**Just a Note : i have Learned LLM From : https://youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu&si=KhisQ-FVEYWqcwCL **
+
+
 This project implements the **GPT-2 architecture from scratch** using the pretrained weights from the Kaggle dataset:
 
 > Dataset: *OpenAI GPT-2 Weights* (Kaggle)
